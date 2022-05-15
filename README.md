@@ -7,8 +7,11 @@ Proficient in Python, SQL and Tableau. My current focus lies in Natural Language
 
 ## Languages: 
 -Python (NumPy, Pandas, Matplotlib, seaborn, scikit-learn, nltk, Beautiful Soup, gensim, PyTorch, spaCy, TensorFlow, Keras
+
 -R
+
 -SQL
+
 -Microsoft VBA
 
 ## Tools and IDEs:
