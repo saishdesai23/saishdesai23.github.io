@@ -32,17 +32,9 @@ Proficient in Python, SQL and Tableau. My current focus lies in Natural Language
 -SailPoint IdentityIQ
 
 
-## More about my work -
+You can find more about my work from my [GitHub repositories](https://github.com/saishdesai23?tab=repositories) and my [Kaggle profile](https://www.kaggle.com/saishdesai23).
 
-A list of all my [GitHub repositories](https://github.com/saishdesai23?tab=repositories)
 
-[Kaggle profile](https://www.kaggle.com/saishdesai23)
-
-Technical Skills
-
-Languages: Python (NumPy, Pandas, Matplotlib, scikit-learn, nltk, Beautiful Soup, gensim, PyTorch, spaCy), R, C, SQL, VBA
-
-Tools and IDEs: PyCharm Professional, Anaconda, R Studio, SQLite, Blender, UNITY, Tableau, SailPoint IdentityIQ
 
 ### Markdown
 
