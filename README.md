@@ -1,11 +1,30 @@
-## Welcome to GitHub Pages
+# Welcome to GitHub Pages
 
 Coding, Cooking, Consulting - The 3 Cs of my life.
 Proficient in Python, SQL and Tableau. My current focus lies in Natural Language Processing and I am looking for opportunities in this domain. Am always eager to learn to new technologies for which I am ready to take challenges.
 
-More about my work -
+# Technical Skills
 
-[Github profile](https://github.com/saishdesai23)
+## Languages: 
+-Python (NumPy, Pandas, Matplotlib, seaborn, scikit-learn, nltk, Beautiful Soup, gensim, PyTorch, spaCy, TensorFlow, Keras
+-R
+-SQL
+-Microsoft VBA
+
+## Tools and IDEs:
+-PyCharm Professional
+-Anaconda
+-RStudio
+-SQLite
+-Blender
+-UNITY
+-Tableau
+-SailPoint IdentityIQ
+
+
+## More about my work -
+
+A list of all my [GitHub repositories](https://github.com/saishdesai23?tab=repositories)
 
 [Kaggle profile](https://www.kaggle.com/saishdesai23)
 
