@@ -16,12 +16,19 @@ Proficient in Python, SQL and Tableau. My current focus lies in Natural Language
 
 ## Tools and IDEs:
 -PyCharm Professional
+
 -Anaconda
+
 -RStudio
+
 -SQLite
+
 -Blender
+
 -UNITY
+
 -Tableau
+
 -SailPoint IdentityIQ
 
 
