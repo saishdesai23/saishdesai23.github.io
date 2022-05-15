@@ -3,13 +3,16 @@
 Coding, Cooking, Consulting - The 3 Cs of my life.
 Proficient in Python, SQL and Tableau. My current focus lies in Natural Language Processing and I am looking for opportunities in this domain. Am always eager to learn to new technologies for which I am ready to take challenges.
 
-More about my work - 
+More about my work -
+
 [Github profile](https://github.com/saishdesai23)
 
 [Kaggle profile](https://www.kaggle.com/saishdesai23)
 
 Technical Skills
+
 Languages: Python (NumPy, Pandas, Matplotlib, scikit-learn, nltk, Beautiful Soup, gensim, PyTorch, spaCy), R, C, SQL, VBA
+
 Tools and IDEs: PyCharm Professional, Anaconda, R Studio, SQLite, Blender, UNITY, Tableau, SailPoint IdentityIQ
 
 ### Markdown
