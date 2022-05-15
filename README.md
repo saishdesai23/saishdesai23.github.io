@@ -1,7 +1,9 @@
-# Welcome to GitHub Pages
+# Saish's Page
 
 Coding, Cooking, Consulting - The 3 Cs of my life.
-Proficient in Python, SQL and Tableau. My current focus lies in Natural Language Processing and I am looking for opportunities in this domain. Am always eager to learn to new technologies for which I am ready to take challenges.
+
+Data Enthusiast with expertise in Natural Langauge Processing
+
 
 # Technical Skills
 
