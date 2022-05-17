@@ -16,21 +16,14 @@ Data Enthusiast with expertise in Natural Langauge Processing
 
 ## Tools and IDEs:
 
--PyCharm Professional
-
--Anaconda
-
--RStudio
-
--SQLite
-
--Blender
-
--UNITY
-
--Tableau
-
--SailPoint IdentityIQ
+- PyCharm Professional
+- Anaconda
+- RStudio
+- SQLite
+- Blender
+- UNITY
+- Tableau
+- SailPoint IdentityIQ
 
 
 You can find more about my work from my [GitHub repositories](https://github.com/saishdesai23?tab=repositories) and my [Kaggle profile](https://www.kaggle.com/saishdesai23).
