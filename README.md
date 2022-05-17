@@ -9,13 +9,10 @@ Data Enthusiast with expertise in Natural Langauge Processing
 
 ## Languages: 
 
--Python (NumPy, Pandas, Matplotlib, seaborn, scikit-learn, nltk, Beautiful Soup, gensim, PyTorch, spaCy, TensorFlow, Keras
-
--R
-
--SQL
-
--Microsoft VBA
+- Python (NumPy, Pandas, Matplotlib, seaborn, scikit-learn, nltk, Beautiful Soup, gensim, PyTorch, spaCy, TensorFlow, Keras
+- R
+- SQL
+- Microsoft VBA
 
 ## Tools and IDEs:
 
