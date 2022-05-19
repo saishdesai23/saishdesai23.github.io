@@ -1,8 +1,7 @@
 # Saish's Page
 
-Coding, Cooking, Consulting - The 3 Cs of my life.
-
 Data Enthusiast with expertise in Natural Langauge Processing
+Coding, Cooking, Consulting - The 3 Cs of my life.
 
 
 # Technical Skills
@@ -27,6 +26,8 @@ Data Enthusiast with expertise in Natural Langauge Processing
 
 
 You can find more about my work from my [GitHub repositories](https://github.com/saishdesai23?tab=repositories) and my [Kaggle profile](https://www.kaggle.com/saishdesai23).
+
+[Linkedin](https://www.linkedin.com/in/saish-desai/)
 
 
 ## My Projects
