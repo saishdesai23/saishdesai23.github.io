@@ -1,6 +1,6 @@
 # Saish's Page
 
-Data Enthusiast with expertise in Natural Langauge Processing
+Data Enthusiast with expertise in Natural Langauge Processing.
 
 Coding, Cooking, Consulting - The 3 Cs of my life.
 
