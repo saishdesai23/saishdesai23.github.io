@@ -48,8 +48,8 @@ You can find more about my work from my [GitHub repositories](https://github.com
 
 ## Literature Reviews
 
-- Comparison of Architectures for Neural Machine Translation
+- Comparison of Architectures for Neural Machine Translation- [https://github.com/saishdesai23/saishdesai23.github.io/blob/main/Literature%20Review%20Final%20Report-sbdesai2.pdf]
 
-- Discontinuous and Overlapping Named Entity Recognition
+- Discontinuous and Overlapping Named Entity Recognition [https://github.com/saishdesai23/saishdesai23.github.io/blob/main/CS447_Literature_Review.pdf]
 
 
