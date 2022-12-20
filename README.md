@@ -44,4 +44,12 @@ You can find more about my work from my [GitHub repositories](https://github.com
 
 - [STROKE-PREDICTION-BASED-ON-HEALTH-AND-LIFESTYLE-FACTORS](https://github.com/saishdesai23/STROKE-PREDICTION-BASED-ON-HEALTH-AND-LIFESTYLE-FACTORS)
 
+- [NER-tool-assement-for-funding-organization-extraction](https://github.com/infoqualitylab/NER-tool-assement-for-funding-organization-extraction)
+
+## Literature Reviews
+
+- Comparison of Architectures for Neural Machine Translation
+
+- Discontinuous and Overlapping Named Entity Recognition
+
 
