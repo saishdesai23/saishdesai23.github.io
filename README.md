@@ -33,7 +33,7 @@ You can find more about my work from my [GitHub repositories](https://github.com
 
 
 ## My Projects
-- [Neural-Machine-Translation-of-sentences-from-Spanish-to-English](https://github.com/saishdesai23/Neural-Machine-Translation-of-sentences-from-Spanish-to-English)
+- [Neural-Machine-Translation-of-sentences-from-English-to-French](https://github.com/saishdesai23/Neural-Machine-Translation-of-sentences-from-English-to-French)
 
 - [Disaster Tweet Classifier](https://github.com/saishdesai23/Prediction-of-Disaster-tweets-using-Natural-Language-Processing)
 
