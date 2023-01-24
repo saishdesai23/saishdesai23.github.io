@@ -25,6 +25,7 @@ Coding, Cooking, Consulting - The 3 Cs of my life.
 - UNITY
 - Tableau
 - SailPoint IdentityIQ
+- PySpark
 
 
 You can find more about my work from my [GitHub repositories](https://github.com/saishdesai23?tab=repositories) and my [Kaggle profile](https://www.kaggle.com/saishdesai23).
