@@ -2,7 +2,11 @@
 
 ![Image]("/saishdesai23.github.io/docs/assets/pp.jpeg")
 
-Data Enthusiast with expertise in Natural Langauge Processing.
+
+# About me
+I am a Data Enthusiast with expertise in Natural Langauge Processing. Exploring unknown datasets and tackling problems such as class imbalance, data imputation strategies, bias-variance trade-off, etc. can serve as the best path to be proficient in solving real-world prediction challenges. Keeping this in mind, I have completed certifications in Machine Learning, Python and Statistics as a part of my self- learning regime. These courses have helped me transition my skills towards the field of analytics and apply this knowledge to solve incoming problems. The focus in all my data science projects is on making data interpretable to machine learning models through data wrangling techniques and exploratory data analysis. An experience in the technology consulting industry involving interaction with stakeholders from sectors such as manufacturing, pharmaceutical, life insurance, and energy, has given me an opportunity to dive deep into their workflows and management structure and understand their requirements. 
+
+
 
 Coding, Cooking, Consulting - The 3 Cs of my life.
 
