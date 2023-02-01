@@ -4,7 +4,7 @@
 
 
 # About me
-I am a Data Enthusiast with expertise in Natural Langauge Processing. Exploring unknown datasets and tackling problems pertaining to handling data keeps me motivated. The focus in all my projects is to make data interpretable to machine learning models through data wrangling techniques and exploratory data analysis. I like reading research papers as it keeps me updated with the State-Of-The-Art work within the NLP community. An experience in the technology consulting industry involving interaction with stakeholders from sectors such as manufacturing, pharmaceutical, life insurance, and energy, has given me an opportunity to dive deep into their workflows and management structure and understand their requirements. 
+I am a Data Enthusiast with expertise in Natural Langauge Processing. Exploring unknown datasets and tackling problems pertaining to handling data keeps me motivated. The focus in all my projects is to make data interpretable to machine learning models through data wrangling techniques and exploratory data analysis. I like reading research papers as it keeps me updated with the State-Of-The-Art work within the NLP community.
 
 
 Coding, Cooking, Consulting - The 3 Cs of my life.
