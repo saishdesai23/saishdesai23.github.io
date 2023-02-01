@@ -4,8 +4,7 @@
 
 
 # About me
-I am a Data Enthusiast with expertise in Natural Langauge Processing. Exploring unknown datasets and tackling problems such as class imbalance, data imputation strategies, bias-variance trade-off, etc. can serve as the best path to be proficient in solving real-world prediction challenges. Keeping this in mind, I have completed certifications in Machine Learning, Python and Statistics as a part of my self- learning regime. These courses have helped me transition my skills towards the field of analytics and apply this knowledge to solve incoming problems. The focus in all my data science projects is on making data interpretable to machine learning models through data wrangling techniques and exploratory data analysis. An experience in the technology consulting industry involving interaction with stakeholders from sectors such as manufacturing, pharmaceutical, life insurance, and energy, has given me an opportunity to dive deep into their workflows and management structure and understand their requirements. 
-
+I am a Data Enthusiast with expertise in Natural Langauge Processing. Exploring unknown datasets and tackling problems pertaining handling data keeps me motivated. The focus in all my projects is to make data interpretable to machine learning models through data wrangling techniques and exploratory data analysis. I like reading research papers as it keeps me updated with the State-Of-The-Art work within the NLP community. An experience in the technology consulting industry involving interaction with stakeholders from sectors such as manufacturing, pharmaceutical, life insurance, and energy, has given me an opportunity to dive deep into their workflows and management structure and understand their requirements. 
 
 
 Coding, Cooking, Consulting - The 3 Cs of my life.
@@ -15,7 +14,7 @@ Coding, Cooking, Consulting - The 3 Cs of my life.
 
 ## Languages: 
 
-- Python (NumPy, Pandas, Matplotlib, seaborn, scikit-learn, nltk, Beautiful Soup, gensim, PyTorch, spaCy, TensorFlow, Keras
+- Python (NumPy, Pandas, Matplotlib, seaborn, scikit-learn, nltk, Beautiful Soup, gensim, PyTorch, spaCy, TensorFlow, Keras)
 - R
 - SQL
 - Microsoft VBA
@@ -37,6 +36,10 @@ You can find more about my work from my [GitHub repositories](https://github.com
 
 [Linkedin Profile](https://www.linkedin.com/in/saish-desai/)
 
+## My Rsearch
+Named Entity Recognition (NER) is a key element of Natural Language Processing (NLP) in information extraction. NER helps discover valuable insights from textual documents - detecting entities mentioned in unstructured text and categorizing them into predefined categories such as person, organization, location, date, etc. In the past few years, the developers have developed some NER tools. The role of research funders in science is important. In order to better understand NER tools' accuracy in identifying sponsors in the research funding domain, further research is needed to analyze research funding acknowledgement statements. This project explores how well existing NER tools recognize funding organizations. Specifically, the most common existing NER tools will be evaluated for their performance to identify scenarios that need improvement, which will enable new research in the project.
+[NER-tool-assement-for-funding-organization-extraction](https://github.com/infoqualitylab/NER-tool-assement-for-funding-organization-extraction)
+
 
 ## My Projects
 - [Neural-Machine-Translation-of-sentences-from-English-to-French](https://github.com/saishdesai23/Neural-Machine-Translation-of-sentences-from-English-to-French)
@@ -51,7 +54,7 @@ You can find more about my work from my [GitHub repositories](https://github.com
 
 - [STROKE-PREDICTION-BASED-ON-HEALTH-AND-LIFESTYLE-FACTORS](https://github.com/saishdesai23/STROKE-PREDICTION-BASED-ON-HEALTH-AND-LIFESTYLE-FACTORS)
 
-- [NER-tool-assement-for-funding-organization-extraction](https://github.com/infoqualitylab/NER-tool-assement-for-funding-organization-extraction)
+
 
 ## Literature Reviews
 
