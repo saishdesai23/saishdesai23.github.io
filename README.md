@@ -37,9 +37,9 @@ You can find more about my work from my [GitHub repositories](https://github.com
 My [Linkedin Profile](https://www.linkedin.com/in/saish-desai/).
 
 ## My Rsearch
-Named Entity Recognition (NER) is a key element of Natural Language Processing (NLP) in information extraction. NER helps discover valuable insights from textual documents - detecting entities mentioned in unstructured text and categorizing them into predefined categories such as person, organization, location, date, etc. In the past few years, the developers have developed some NER tools. The role of research funders in science is important. In order to better understand NER tools' accuracy in identifying sponsors in the research funding domain, further research is needed to analyze research funding acknowledgement statements. This project explores how well existing NER tools recognize funding organizations. Specifically, the most common existing NER tools will be evaluated for their performance to identify scenarios that need improvement, which will enable new research in the project.
+Named Entity Recognition (NER) is a key element of Natural Language Processing (NLP) in information extraction. NER helps discover valuable insights from textual documents - detecting entities mentioned in unstructured text and categorizing them into predefined categories such as person, organization, location, date, etc. In the past few years, the developers have developed some NER tools for detecting such entities. The role of research funders in science is important. In order to better understand NER tools' accuracy in identifying sponsors in the research funding domain, further research is needed to analyze research funding acknowledgement statements. This project explores how well existing NER tools recognize funding organizations. Specifically, the most common existing NER tools will be evaluated for their performance to identify scenarios that need improvement, which will enable new research in the project.
 
-You can find more detials about work on my github repository-
+You can find more detials about my work on my github repository-
 
 [NER-tool-assement-for-funding-organization-extraction](https://github.com/infoqualitylab/NER-tool-assement-for-funding-organization-extraction)
 
