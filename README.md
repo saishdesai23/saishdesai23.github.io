@@ -1,6 +1,6 @@
 # Saish's Page
 
-![Image](/saishdesai23.github.io/docs/assets/pp.jpeg)
+![Image]("/saishdesai23.github.io/docs/assets/pp.jpeg")
 
 Data Enthusiast with expertise in Natural Langauge Processing.
 
