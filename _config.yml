@@ -1,1 +1,2 @@
-theme: jekyll-theme-modernist
+# theme: jekyll-theme-modernist
+remote_theme: "mmistakes/so-simple-theme@3.2.0"
