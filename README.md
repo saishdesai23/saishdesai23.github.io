@@ -45,6 +45,8 @@ You can find more detials about my work on my github repository-
 
 
 ## My Projects
+- [Privacy Policy Document Summarization](https://github.com/star-nox/Privacy-Policy-Summarization)
+
 - [Neural-Machine-Translation-of-sentences-from-English-to-French](https://github.com/saishdesai23/Neural-Machine-Translation-of-sentences-from-English-to-French)
 
 - [Disaster Tweet Classifier](https://github.com/saishdesai23/Prediction-of-Disaster-tweets-using-Natural-Language-Processing)
@@ -55,7 +57,7 @@ You can find more detials about my work on my github repository-
 
 - [Analysis of factos contibuting to decrease in the fertility rate](https://github.com/saishdesai23/Analysis-of-factors-that-may-be-contributing-to-the-decrease-of-global-fertility-rates)
 
-- [STROKE-PREDICTION-BASED-ON-HEALTH-AND-LIFESTYLE-FACTORS](https://github.com/saishdesai23/STROKE-PREDICTION-BASED-ON-HEALTH-AND-LIFESTYLE-FACTORS)
+- [Stroke Prediction based on Health and Lifestyle Factors](https://github.com/saishdesai23/STROKE-PREDICTION-BASED-ON-HEALTH-AND-LIFESTYLE-FACTORS)
 
 
 
