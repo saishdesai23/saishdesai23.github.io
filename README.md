@@ -1,6 +1,6 @@
 
 # About me
-I am a Data Enthusiast with expertise in Natural Language Processing. Exploring unknown datasets and tackling problems pertaining to handling data keeps me motivated. The focus in all my projects is to make data interpretable to machine learning models through data wrangling techniques and exploratory data analysis. I like reading research papers as it keeps me updated with the State-Of-The-Art work within the NLP community.
+I am a Data Enthusiast with expertise in Machine Learning and Natural Language Processing. Exploring unknown datasets and tackling problems pertaining to handling data keeps me motivated. The focus in all my projects is to make data interpretable to machine learning models through data engineering techniques and identify patterns in data to solve business problems. I like reading research papers as it keeps me updated with the State-Of-The-Art work within the NLP community.
 
 
 Coding, Cooking, Consulting - The 3 Cs of my life.
@@ -8,24 +8,25 @@ Coding, Cooking, Consulting - The 3 Cs of my life.
 
 # Technical Skills
 
-## Languages: 
+## Programming: 
 
-- Python (NumPy, Pandas, Matplotlib, seaborn, scikit-learn, nltk, Beautiful Soup, gensim, PyTorch, spaCy, TensorFlow, Keras)
+- Python (PyTorch, pandas, scikit-learn, NLTK, spaCy, Gensim, NumPy, Matplotlib, TensorFlow)
 - R
 - SQL
-- Microsoft VBA
+- PySpark
 
-## Tools and IDEs:
-
-- PyCharm Professional
-- Anaconda
+## Tools and Platforms:
+- Jupyter Notebook
 - RStudio
 - SQLite
-- Blender
-- UNITY
+- PostgreSQL
+- Git
 - Tableau
-- SailPoint IdentityIQ
-- PySpark
+- HuggingFace
+- Airflow
+- Doccano
+- Scale AI
+- Weights & Biases
 
 
 You can find more about my work from my [GitHub repositories](https://github.com/saishdesai23?tab=repositories) and my [Kaggle profile](https://www.kaggle.com/saishdesai23).
