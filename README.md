@@ -54,7 +54,7 @@ You can find more detials about my work on my github repository- [NER-tool-assem
 
 - [Short Term Load Forecasting](https://github.com/saishdesai23/Short-Term-Load-Forecasting)
 
-- - [Stroke Prediction based on Health and Lifestyle Factors](https://github.com/saishdesai23/STROKE-PREDICTION-BASED-ON-HEALTH-AND-LIFESTYLE-FACTORS)
+- [Stroke Prediction based on Health and Lifestyle Factors](https://github.com/saishdesai23/STROKE-PREDICTION-BASED-ON-HEALTH-AND-LIFESTYLE-FACTORS)
 
 - [Youtube Video Classification](https://github.com/saishdesai23/Youtube-Video-Classification)
 
