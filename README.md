@@ -27,7 +27,7 @@ Coding, Cooking, Consulting - The 3 Cs of my life.
 - Spark
 - Weights & Biases
 
-## AWS:
+## Cloud Technologies (AWS):
 - S3
 - Glue
 - Lambda
