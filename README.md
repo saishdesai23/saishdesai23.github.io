@@ -40,9 +40,16 @@ Coding, Cooking, Consulting - The 3 Cs of my life.
 You can find more about my work from my [GitHub repositories](https://github.com/saishdesai23?tab=repositories), [Kaggle profile](https://www.kaggle.com/saishdesai23) and [Linkedin Profile](https://www.linkedin.com/in/saish-desai/).
 
 ## My Research
+- Assessment of NER Tools for detecting Funding Organizations (Information Quality Lab, UIUC)
+  
 Named Entity Recognition (NER) is a key element within the Natural Language Processing (NLP) pipeline of information extraction. NER helps discover valuable insights from textual documents by detecting entities mentioned in unstructured text and categorizing them into predefined categories such as person, organization, location, date, etc. In the past few years, the developers within the NLP community have developed some NER tools for detecting entities such as the organization names. The role of research funders in science is important. In order to better understand NER tools' accuracy in identifying sponsors in the research funding domain, further research is needed to analyze research funding acknowledgement statements. My Research explores how well existing NER tools recognize funding organizations. Specifically, the most common existing NER tools have been evaluated for their performance to identify scenarios that need improvement, which will enable new research pertaining to Named Entity Recogniton in the research funding field.
 
 You can find more detials about my work on my github repository- [NER-tool-assement-for-funding-organization-extraction](https://github.com/infoqualitylab/NER-tool-assement-for-funding-organization-extraction)
+
+- Review of Knowledge Powered Dialog Systems (NCSA, UIUC)
+
+I am co-authoring a research paper for conducting review of existing Knowledge-powered Q&A and Dialogue Systems. I have analysed 80 crowd-sourced datasets pertaining to dialogue systems and drafted a comparison of models trained on these datasets. I have also designed a generic architecture of language models responsible for knowledge selection in knowledge grounded dialogue systems.
+
 
 
 ## My Projects
@@ -60,7 +67,7 @@ You can find more detials about my work on my github repository- [NER-tool-assem
 
 - [Character Analysis using Sentiment Score](https://github.com/saishdesai23/Character-analysis-using-sentiment-score-of-characters-in-Hamlet-A-play-by-Shakespeare-)
 
-- [Analysis of factos contibuting to decrease in the fertility rate](https://github.com/saishdesai23/Analysis-of-factors-that-may-be-contributing-to-the-decrease-of-global-fertility-rates)
+- [Analysis of factors contibuting to decrease in the fertility rate](https://github.com/saishdesai23/Analysis-of-factors-that-may-be-contributing-to-the-decrease-of-global-fertility-rates)
 
 
 
