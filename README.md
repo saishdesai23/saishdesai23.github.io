@@ -39,7 +39,7 @@ Coding, Cooking, Consulting - The 3 Cs of my life.
 
 You can find more about my work from my [GitHub repositories](https://github.com/saishdesai23?tab=repositories), [Kaggle profile](https://www.kaggle.com/saishdesai23) and [Linkedin Profile](https://www.linkedin.com/in/saish-desai/).
 
-## My Research
+## Research
 - **Assessment of NER Tools for detecting Funding Organizations (Information Quality Lab, UIUC)**
   
 Named Entity Recognition (NER) is a key element within the Natural Language Processing (NLP) pipeline of information extraction. NER helps discover valuable insights from textual documents by detecting entities mentioned in unstructured text and categorizing them into predefined categories such as person, organization, location, date, etc. In the past few years, the developers within the NLP community have developed some NER tools for detecting entities such as the organization names. The role of research funders in science is important. In order to better understand NER tools' accuracy in identifying sponsors in the research funding domain, further research is needed to analyze research funding acknowledgement statements. My Research explores how well existing NER tools recognize funding organizations. Specifically, the most common existing NER tools have been evaluated for their performance to identify scenarios that need improvement, which will enable new research pertaining to Named Entity Recogniton in the research funding field.
@@ -52,7 +52,7 @@ I am co-authoring a research paper for conducting review of existing Knowledge-p
 
 
 
-## My Projects
+## Projects
 - [Privacy Policy Document Summarization](https://github.com/star-nox/Privacy-Policy-Summarization)
 
 - [Neural-Machine-Translation-of-sentences-from-English-to-French](https://github.com/saishdesai23/Neural-Machine-Translation-of-sentences-from-English-to-French)
