@@ -68,8 +68,7 @@ I am co-authoring a research paper for conducting review of existing Knowledge-p
 - [Character Analysis using Sentiment Score](https://github.com/saishdesai23/Character-analysis-using-sentiment-score-of-characters-in-Hamlet-A-play-by-Shakespeare-)
 
 - [Analysis of factors contibuting to decrease in the fertility rate](https://github.com/saishdesai23/Analysis-of-factors-that-may-be-contributing-to-the-decrease-of-global-fertility-rates)
-- [Dental AI Assistant: A Medical Chatbot built using Retrieval QA chain and Prompt Tuning (NLP)![image](https://github.com/saishdesai23/saishdesai23.github.io/assets/43234321/cd1c6d4f-a8d9-44cc-8621-49278d3af4dd)
-](https://github.com/saishdesai23/Analysis-of-factors-that-may-be-contributing-to-the-decrease-of-global-fertility-rates](https://github.com/saishdesai23/DentalAI))
+- [Dental AI Assistant: A Medical Chatbot built using Retrieval QA chain and Prompt Tuning (NLP)](https://github.com/saishdesai23/Analysis-of-factors-that-may-be-contributing-to-the-decrease-of-global-fertility-rates](https://github.com/saishdesai23/DentalAI))
 
 
 
