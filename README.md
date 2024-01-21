@@ -1,6 +1,6 @@
 
 # About me
-I am a Data Enthusiast with expertise in Machine Learning, Time Series Forecasting, Natural Language Processing and Supply Chain Management. I am passionate about solving real-world problems by making data interpretable to machine learning models and identifying patterns for predicting results. As an avid reader of research papers and technical articles I keep myself up-to-date with the latest advances in the field of data science. My experience in the technology consulting industry involving interaction with stakeholders from multiple indusrial sectoers makes me a skilled communicator with ability to explain complex technical concepts to non-technical audiences. I am also a team player and enjoy working collaboratively with others to achieve common goals. I am always looking for new challenges and opportunities to learn and grow.
+I am a Data Enthusiast with expertise in Machine Learning, Time Series Forecasting, Natural Language Processing and Supply Chain Management. I am passionate about solving real-world problems by making data interpretable to machine learning models and identifying patterns for predicting results. As an avid reader of research papers and technical articles I keep myself up-to-date with the latest advances in the field of data science. My experience in the technology consulting industry involving interaction with stakeholders from multiple industrial sectors makes me a skilled communicator with ability to explain complex technical concepts to non-technical audiences. I am currently working as Data Scientist at Prairie Research Institute within the Watershed Science Research Team. I have built multi-objective optimization frameworks, trained deep learning models for accurate forecasting, and created visualizations. I am also a team player and enjoy working collaboratively with others to achieve common goals. I am always looking for new challenges and opportunities to learn and grow.
 
 Coding, Cooking, Consulting - The 3 Cs of my life.
 
@@ -68,7 +68,9 @@ I am co-authoring a research paper for conducting review of existing Knowledge-p
 - [Character Analysis using Sentiment Score](https://github.com/saishdesai23/Character-analysis-using-sentiment-score-of-characters-in-Hamlet-A-play-by-Shakespeare-)
 
 - [Analysis of factors contibuting to decrease in the fertility rate](https://github.com/saishdesai23/Analysis-of-factors-that-may-be-contributing-to-the-decrease-of-global-fertility-rates)
+  
 - [Dental AI Assistant: A Medical Chatbot built using Retrieval QA chain and Prompt Tuning (NLP)](https://github.com/saishdesai23/DentalAI)
+  
 - [Store-Item demand forecasting and Route Optimization for Last Mile Delivery](https://github.com/saishdesai23/Last_Mile_Delivery_Demand_Forecasting_Route_Optmization)
 
 
