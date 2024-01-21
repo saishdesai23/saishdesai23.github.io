@@ -69,6 +69,7 @@ I am co-authoring a research paper for conducting review of existing Knowledge-p
 
 - [Analysis of factors contibuting to decrease in the fertility rate](https://github.com/saishdesai23/Analysis-of-factors-that-may-be-contributing-to-the-decrease-of-global-fertility-rates)
 - [Dental AI Assistant: A Medical Chatbot built using Retrieval QA chain and Prompt Tuning (NLP)](https://github.com/saishdesai23/DentalAI)
+- [Store-Item demand forecasting and Route Optimization for Last Mile Delivery](https://github.com/saishdesai23/Last_Mile_Delivery_Demand_Forecasting_Route_Optmization)
 
 
 
