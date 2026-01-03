@@ -1,10 +1,10 @@
 
 # About me
-I am a Data Enthusiast with expertise in Machine Learning, Time Series Forecasting, Natural Language Processing and Supply Chain Management. I am passionate about solving real-world problems by making data interpretable to machine learning models and identifying patterns for predicting results. As an avid reader of research papers and technical articles I keep myself up-to-date with the latest advances in the field of data science. My experience in the technology consulting industry involving interaction with stakeholders from multiple industrial sectors makes me a skilled communicator with ability to explain complex technical concepts to non-technical audiences. I am currently working as Data Scientist at Prairie Research Institute within the Watershed Science Research Team. I have built multi-objective optimization frameworks, trained deep learning models for accurate forecasting, and created visualizations. I am also a team player and enjoy working collaboratively with others to achieve common goals. I am always looking for new challenges and opportunities to learn and grow.
+Data Engineer and Generative AI Specialist with a Master’s in Information Management (Data Science & Analytics) from UIUC. Experienced in building RAG pipelines, vector indexes, and LLM-powered applications on GCP and AWS, leveraging Python, PyTorch, TensorFlow, SQL, and cloud-native tools to develop scalable ML workflows. Skilled in NLP, prompt engineering, and multimodal data ingestion, with a strong foundation in machine learning, deep learning, and production-grade data pipelines. Passionate about designing and productionizing AI systems that enable semantic search, retrieval, and agentic applications.
 
 
 # LLM Journey
-I have experience in working on Large Language Model (LLM) applications using RAG (Retrieval-Augmented Generation) and Prompt Engineering using tools like LangChain, Pytorch, and Hugging Face. As a student with a strong academic background in Natural Language Processing (NLP), I am particularly fascinated by the potential of these technologies to revolutionize the way we interact with and understand language. I have gained a comprehensive understanding of NLP fundamentals, including language modeling, machine translation, and question answering. My research focus lies in studying different stages of the NLP pipeline. I have conducted 2 extensive literature reviews involving the study of evolution of models pertaining to Biomedical Named Entity Recognition and Neural Machine Translation. I have been working on multiple academic projects using python libraries such as NLTK, spaCy, genism and Beautiful Soup, TensorFlow and PyTorch. I am currently co-authoring a research paper for reviewing architectures of dialogue systems developed within the NLP community. I have recently implemented a Chatbot using advance RAG techniques working as a virtual assistant to solve dental problems. I am have contanstantly updating it with SOTA techniques for response generation based on the latest updates from the LLM world. My academic experience and passion for NLP and GenAI have equipped me with the necessary skills and knowledge to contribute meaningfully to LLM development projects. 
+I have gained hands-on experience with RAG (Retrieval-Augmented Generation), Prompt Engineering, and vector-based retrieval systems, building **50+** vector indexes and **20+** ETL pipelines using Vertex AI and Elasticsearch to power enterprise-scale conversational applications and agentic AI solutions. Through my academic work, I developed expertise in language modeling, neural machine translation, text summarization, and dialogue systems, implementing projects with PyTorch, TensorFlow, Hugging Face, NLTK, spaCy, and LangChain, including a medical chatbot for dental queries. I have also conducted RAG application testing, developed multimodal data ingestion frameworks, and co-authored research on dialogue system architectures, continuously enhancing pipelines with state-of-the-art techniques to improve retrieval performance and response quality. 
 
 
 # Technical Skills
@@ -35,12 +35,18 @@ I have experience in working on Large Language Model (LLM) applications using RA
 - S3
 - Glue
 - Lambda
-- IAM
 - Athena
-- QuickSight
 - EC2
 - SageMaker
 - Bedrock
+
+## Cloud Technologies (GCP):
+- Cloud Storage
+- BigQuery
+- Cloud Run
+- Vertex AI
+- Cloud Composer
+
 
 You can find more about my work from my [GitHub repositories](https://github.com/saishdesai23?tab=repositories), [Kaggle profile](https://www.kaggle.com/saishdesai23) and [Linkedin Profile](https://www.linkedin.com/in/saish-desai/).
 
