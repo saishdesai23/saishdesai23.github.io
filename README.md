@@ -34,9 +34,6 @@ Named Entity Recognition (NER) is a key element within the Natural Language Proc
 
 🔗 **[View Repository](https://github.com/infoqualitylab/NER-tool-assement-for-funding-organization-extraction)**
 
-### Review of Knowledge Powered Dialog Systems (NCSA, UIUC)
-I am co-authoring a research paper for conducting review of existing Knowledge-powered Q&A and Dialogue Systems. I have analysed 80 crowd-sourced datasets pertaining to dialogue systems and drafted a comparison of models trained on these datasets. I have also designed a generic architecture of language models responsible for knowledge selection in knowledge grounded dialogue systems.
-
 ---
 
 ## 🏗 Projects
