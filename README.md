@@ -26,7 +26,7 @@ I have gained hands-on experience with RAG (Retrieval-Augmented Generation), Pro
 - **RAG & Vector Search:** Deployed 13M-vector Elasticsearch databases and built Vertex AI indexes powering 50+ conversational apps; engineered JWT-secured APIs for hybrid search testing.
 - **Pipeline Engineering:** Led a team deploying 20+ ETL pipelines with automated CI/CD (Jenkins, Docker, Cloud Composer); optimized CSV processing time by 80% via custom microservices.
 - **Cloud-Native Architecture:** Built autoscaling Cloud Run services and Vertex AI embedding modules with rate limiting and parallel processing for scalable workflows.
-- **Observability & Evaluation:** Implemented BigQuery video/document-level tracking for pipeline observability; optimized response quality using Galileo Evaluate and advanced chunking strategies.
+- **Observability & Evaluation:** Implemented BigQuery document-level tracking for pipeline observability; optimized response quality using Galileo Evaluate and advanced chunking strategies.
 
 ---
 
