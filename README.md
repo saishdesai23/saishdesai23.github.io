@@ -4,13 +4,12 @@
 
 
   
-<div align="center">
+
   ### AI Engineer | Data Engineer | Generative AI Specialist
 
   [![GitHub](https://img.shields.io/badge/GitHub-Saish%20Desai-181717?logo=github&logoColor=white)](https://github.com/saishdesai23?tab=repositories)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Saish%20Desai-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saish-desai/)
   [![Kaggle](https://img.shields.io/badge/Kaggle-Saish%20Desai-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/saishdesai23)
-</div>
 ---
 
 ## 👨‍💻 About Me
