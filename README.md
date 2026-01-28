@@ -1,9 +1,8 @@
 <div align="center">
   <img src="visafoto_com_us_visa.jpg" alt="Saish Desai" width="180" />
-</div>
+  <br/>
+  <br/>
 
-  
-<div align="center">
   [![GitHub](https://img.shields.io/badge/GitHub-Saish%20Desai-181717?logo=github&logoColor=white)](https://github.com/saishdesai23?tab=repositories)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Saish%20Desai-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saish-desai/)
   [![Kaggle](https://img.shields.io/badge/Kaggle-Saish%20Desai-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/saishdesai23)
@@ -18,6 +17,16 @@
 ## 🚀 LLM Journey
 
 I have gained hands-on experience with RAG (Retrieval-Augmented Generation), Prompt Engineering, and vector-based retrieval systems, building **50+** vector indexes and **20+** ETL pipelines using Vertex AI and Elasticsearch to power enterprise-scale conversational applications and agentic AI solutions. Through my academic work, I developed expertise in language modeling, neural machine translation, text summarization, and dialogue systems, implementing projects with PyTorch, TensorFlow, Hugging Face, NLTK, spaCy, and LangChain, including a medical chatbot for dental queries. I have also conducted RAG application testing, developed multimodal data ingestion frameworks, and co-authored research on dialogue system architectures, continuously enhancing pipelines with state-of-the-art techniques to improve retrieval performance and response quality. 
+
+---
+
+## 🤖 Generative AI Experience
+
+- **Multimodal Ingestion Framework:** Designed a self-serve, real-time framework using Agile methodologies to ingest multimodal data; implemented Gemini-based extraction for single-pass parsing of text, tables, and images.
+- **RAG & Vector Search:** Deployed 13M-vector Elasticsearch databases and built Vertex AI indexes powering 50+ conversational apps; engineered JWT-secured APIs for hybrid search testing.
+- **Pipeline Engineering:** Led a team deploying 20+ ETL pipelines with automated CI/CD (Jenkins, Docker, Cloud Composer); optimized CSV processing time by 80% via custom microservices.
+- **Cloud-Native Architecture:** Built autoscaling Cloud Run services and Vertex AI embedding modules with rate limiting and parallel processing for scalable workflows.
+- **Observability & Evaluation:** Implemented BigQuery video/document-level tracking for pipeline observability; optimized response quality using Galileo Evaluate and advanced chunking strategies.
 
 ---
 
