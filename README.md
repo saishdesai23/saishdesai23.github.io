@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-Data Engineer and Generative AI Specialist with a Master’s in Information Management (Data Science & Analytics) from UIUC. Experienced in building RAG pipelines, vector indexes, and LLM-powered applications on GCP and AWS, leveraging Python, PyTorch, TensorFlow, SQL, and cloud-native tools to develop scalable ML workflows. Skilled in NLP, prompt engineering, and multimodal data ingestion, with a strong foundation in machine learning, deep learning, and production-grade data pipelines. Passionate about designing and productionizing AI systems that enable semantic search, retrieval, and agentic applications.
+**AI Software Engineer** holding a **Master’s in Information Management (Data Science & Analytics) from University of Illinois at Urbana-Champaign**. Experienced in building RAG pipelines, vector indexes, and LLM-powered applications on GCP and AWS. Key skills include NLP, Prompt Engineering, Multimodal Data Ingestion, Machine Learning, Deep Learning, and Production-grade Data Pipelines, leveraging Python, PyTorch, TensorFlow, SQL, and Cloud-native tools. Passionate about designing and productionizing AI systems enabling semantic search, retrieval, and agentic applications.
 
 ## 🚀 LLM Journey
 
