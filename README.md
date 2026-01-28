@@ -1,11 +1,5 @@
 <div align="center">
   <img src="visafoto_com_us_visa.jpg" alt="Saish Desai" width="180" />
-</div>
-
-
-  
-
-  ### AI Engineer | Data Engineer | Generative AI Specialist
 
   [![GitHub](https://img.shields.io/badge/GitHub-Saish%20Desai-181717?logo=github&logoColor=white)](https://github.com/saishdesai23?tab=repositories)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Saish%20Desai-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saish-desai/)
